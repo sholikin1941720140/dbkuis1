@@ -1,4 +1,6 @@
-[
+{
+ "Mahasiswa":
+  [
     {
       "id": 1,
       "name": "Leanne Graham",
@@ -229,4 +231,17 @@
         "bs": "target end-to-end models"
       }
     }
-  ]
+  ],
+ "Status":
+ [
+    {"id=":1, "status": "active"},
+    {"id=":2, "status": "blokir"},
+    {"id=":3, "status": "active"},
+    {"id=":4, "status": "active"},
+    {"id=":5, "status": "blokir"},
+    {"id=":6, "status": "active"},
+    {"id=":7, "status": "registration"},
+    {"id=":8, "status": "active"},
+    {"id=":9, "status": "registration"}
+ ]
+} 
